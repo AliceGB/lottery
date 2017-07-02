@@ -1,0 +1,35 @@
+{
+    // Enforcing options
+    // http://jshint.com/docs/options/#enforcing-options
+
+    "esversion": 6,
+    "eqeqeq": true
+    // "sub": true,
+    // "laxbreak": true,
+    // "laxcomma": true,
+    // "regexp": true,
+    // "asi": true,
+    // "browser": true,
+    // "loopfunc": true,
+    // "expr": true,
+    // "jquery": true,
+    // "node": true,
+    // "es5": true,
+    // "esnext": true,
+    // "bitwise": true,
+    // "curly": true,
+    // "immed": true,
+    // "latedef": false,
+    // "expr": true,
+    // "eqnull": false,
+    // "newcap": true,
+    // "noarg": true,
+    // "undef": true,
+    // "proto": true,
+    // "strict": false,
+    // "smarttabs": true,
+    // "forin": true,
+    // "nonbsp": true,
+    // "nonew": true,
+    // "unused": true,
+}
